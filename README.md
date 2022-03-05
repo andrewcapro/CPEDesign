@@ -1,2 +1,2 @@
 # CPE Design
-## Information Database
+## [Labs](https://github.com/andrewcapro/CPEDesign/tree/main/Labs)
